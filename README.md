@@ -3,7 +3,7 @@
 2. ### [`Create simple shell scripts`]()
 3. ### [`Operate running systems`]()
 4. ### [`Configure local storage`]()
-5. ### [`Create and configure file systems`]
+5. ### [`Create and configure file systems`]()
 6. ### [`Deploy, configure, and maintain systems`]()
 7. ### [`Manage basic networking`]()
 8. ### [`Manage users and groups`]()
